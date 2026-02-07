@@ -1,4 +1,4 @@
-FROM tomcat:latest
+FROM tomcat:11.0.18-jdk25-temurin-noble
 
 MAINTAINER AR Shankar
 
